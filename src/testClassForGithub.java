@@ -7,4 +7,6 @@ public class testClassForGithub {
     unable to auto-detect email address (got 'brownm6@lab-8457-11.(none)')
     */
 
+    //alteration 1
+
 }
